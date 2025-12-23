@@ -31,7 +31,7 @@ Ecco lo stato attuale della homepage di ArticlePulse.com:
 
 <div align="center">
   <a href="https://www.articlepulse.com/">
-    <img src="https://s0.wp.com/mshots/v1/https://www.articlepulse.com" alt="Anteprima Live di ArticlePulse.com" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
+    <img src="https://s0.wp.com/mshots/v1/https://www.articlepulse.com?v=2" alt="Anteprima Live di ArticlePulse.com" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
   </a>
 </div>
 
