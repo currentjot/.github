@@ -31,7 +31,7 @@ Ecco lo stato attuale della homepage di currentjot.com:
 
 <div align="center">
   <a href="https://www.currentjot.com/">
-    <img src="https://s0.wp.com/mshots/v1/https://www.currentjot.com?v=2" alt="Anteprima Live di currentjot.com" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
+    <img src="https://s0.wp.com/mshots/v1/https://www.currentjot.com?v=3" alt="Anteprima Live di currentjot.com" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
   </a>
 </div>
 
