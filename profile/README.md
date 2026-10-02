@@ -4,7 +4,7 @@
 
 ### L'hub di sviluppo per [Currentjot.com](https://www.currentjot.com/)
 
-Sviluppo, innovazione e automazione per l'ecosistema WordPress.
+Sviluppo, innovazione e automazione con Hugo.
 
 [Visita il Sito](https://www.currentjot.com/) • [Contattami](mailto:contact@currentjot.com)
 
@@ -17,7 +17,7 @@ Sviluppo, innovazione e automazione per l'ecosistema WordPress.
 Benvenuti. Questa organizzazione GitHub è il laboratorio tecnico di **currentjot**.
 Come sviluppatore indipendente, qui progetto e mantengo le soluzioni software che alimentano il sito, con un focus specifico su:
 
-* **Ecosistema WordPress:** Plugin custom e ottimizzazione temi.
+* **Hugo:** Sviluppo del sito statico e personalizzazione dei temi.
 * **Automazione:** Script per la gestione efficiente dei contenuti.
 * **Performance:** Architettura software mirata alla velocità e alla UX.
 
